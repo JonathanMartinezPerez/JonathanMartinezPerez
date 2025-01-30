@@ -37,9 +37,7 @@ I'm a passionate software developer with a strong interest in web development, c
 
 Here are some of my recent projects:
 
-- [Project 1](https://github.com/JonathanMartinezPerez/project1) - A brief description of Project 1.
-- [Project 2](https://github.com/JonathanMartinezPerez/project2) - A brief description of Project 2.
-- [Project 3](https://github.com/JonathanMartinezPerez/project3) - A brief description of Project 3.
+- MyInventoryHub: A proyect for a Storage Management Web for companies
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
