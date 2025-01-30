@@ -31,7 +31,7 @@ I'm a passionate software developer with a strong interest in web development, c
 
 - LinkedIn: [Jonathan Martinez Perez](https://www.linkedin.com/in/jonathanmartinezperez)
 - Twitter: [@JonathanMP](https://twitter.com/JonathanMP)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [your-email@example.com](mailto:jonimarpe24@gmail.com)
 
 ## 🌟 Projects
 
