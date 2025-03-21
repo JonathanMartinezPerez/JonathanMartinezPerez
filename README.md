@@ -22,6 +22,8 @@ I'm a passionate software developer with a strong interest in web development, c
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++)
 
 ## 📈 GitHub Stats
 
@@ -29,8 +31,6 @@ I'm a passionate software developer with a strong interest in web development, c
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Jonathan Martinez Perez](https://www.linkedin.com/in/jonathanmartinezperez)
-- Twitter: [@JonathanMP](https://twitter.com/JonathanMP)
 - Email: [jonimarpe24@gmail.com](mailto:jonimarpe24@gmail.com)
 
 ## 🌟 Projects
